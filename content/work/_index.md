@@ -6,4 +6,3 @@ heroSubHeading: Our portfolio and previous projects
 heroBackground: ''
 
 ---
-This is a test
